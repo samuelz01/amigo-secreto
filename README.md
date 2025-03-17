@@ -30,7 +30,7 @@
 1. **Descarga o clona el repositorio:**
 
     ```bash
-    git clone https://github.com/tuusuario/amigo-secreto.git
+    git clone https://github.com/samuelz01/amigo-secreto.git
     ```
 
 2. **Abre el archivo `index.html`:**  
